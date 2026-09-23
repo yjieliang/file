@@ -1,0 +1,2 @@
+# 保持原有换行符，禁止 autocrlf 转换（避免 Obsidian 端整库显示为已修改）
+* -text
