@@ -1,5 +1,0 @@
-# 整理工具、备份与临时文件，不纳入版本库
-_cleanup/
-
-# Obsidian 回收站
-.trash/
